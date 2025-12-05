@@ -15,6 +15,6 @@ Summary
 -------
 
 - Code - Apache 2.0 License
-- Code Copyleft - AGPL with Classpath Exception (reserved for extenuating circumstances)
+- Code Copyleft - EUPL 1.2
 - Documentation - CC BY-SA 4.0
 - Community - Be nice.

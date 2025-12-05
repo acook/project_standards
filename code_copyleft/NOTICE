@@ -5,31 +5,14 @@ This product includes software developed by
 [Anthony Michael Cook](http://anthonymcook.com).
 
 All source code in this directory and all subdirectories are covered by
-the Affero GNU License with Classpath exception, unless explicitly noted
+the European Union Public License (EUPL), unless explicitly noted
 otherwise.
 
-The actual license terms are contained in the LICENSE file found in this same
+The license terms are contained in the LICENSE file found in this same
 directory.
+To view a copy of this license in one of 23 different languages, visit: https://interoperable-europe.ec.europa.eu/collection/eupl/eupl-text-eupl-12
 
 All product documentation in this directory and all subdirectories are covered
 by the Creative Commons Attribution-ShareAlike 4.0 International License,
 unless explicitly noted otherwise.
-
 To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
-
-What the AGPL Classpath Licence Means for You
-=============================================
-
-This is the exact same exception used by Java and GNU Classpath used by 
-billions of devices and untold thousands of companies.
-
-With the classpath exception, a product or project using this library can
-use any open source or proprietary license without consideration for the license
-of this project. Only changes to this codebase must be made available. 
-
-As such, it can be used to run, create, and distribute any kind of application
-in any environment. When this software is used unmodified as a Ruby Gem,
-Java Class, or other dependency it does not affect the license for the including
-product. However, any changes to this library or any files
-within this repository, archive, directory, or subdirectory must still be 
-published in accordance with the AGPLv3.
