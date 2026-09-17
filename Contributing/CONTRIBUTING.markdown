@@ -54,3 +54,11 @@ Please use idiomatic formatting for the programming language, there are plugins 
 
 - Use [EditorConfig](https://editorconfig.org/)
 - Correct errors or new warnings that the CI and status checks report
+
+# LLM / "AI" Policy
+
+LLMs, diffusion models, or any other similar "generative AI" technologies are *NOT permitted* for any purpose; including but not limited to: code, documentation, testing, translations, graphics, and other media. You may not advocate for the use of these technologies in any project-related space.
+
+People (or agents) who attempt evade this rule will join the wall of shame and be permanently banned from all project spaces. That includes the affected project as well as any other current or future projects covered by this policy.
+
+If you have a history of using these technologies then it is best to simply not engage, all you will do in the end is burn tokens and goodwill. Most of these projects existed before these technologies and will continue to do so without your participation.
